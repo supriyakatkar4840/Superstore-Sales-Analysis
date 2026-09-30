@@ -77,8 +77,5 @@ See [`INSIGHTS.md`](./INSIGHTS.md) for the full breakdown.
 - Python 3, pandas, openpyxl
 - Excel (formulas + native charts, no external BI tool required)
 
-## License
-
-Data is the publicly available "Sample Superstore" dataset, commonly used
-for BI/analytics practice. Code in this repo is provided under the MIT
-License — see [LICENSE](./LICENSE).
+## Author
+Supriya Katkar
